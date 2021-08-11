@@ -1,0 +1,16 @@
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\RGIT IMS.vbprojAssemblyReference.cache
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\RGIT IMS.vbproj.GenerateResource.cache
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\RGIT IMS.vbproj.CoreCompileInputs.cache
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.ControlForm.resources
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.LoginForm.resources
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\bin\Debug\Login_DB_RGIT.accdb
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.AboutForm.resources
+C:\Users\HP Notebook 15\Desktop\IMS\WindowsApp1\obj\Debug\WindowsApp1.Loading.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RGIT IMS", "WindowsApp1\RGIT IMS.vbproj", "{CBC2F372-D79C-47E6-8055-201985F2EABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC2F372-D79C-47E6-8055-201985F2EABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC2F372-D79C-47E6-8055-201985F2EABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC2F372-D79C-47E6-8055-201985F2EABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC2F372-D79C-47E6-8055-201985F2EABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5605E5CA-4C3F-4DFB-A98E-CE46F6AD883D}
+	EndGlobalSection
+EndGlobal
